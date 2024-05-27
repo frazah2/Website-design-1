@@ -1,0 +1,61 @@
+.head{
+    width: 100%;height: 100px;background-color:transparent;float: left;
+}
+.ta{
+    border-radius: 50%;margin: 20px 0 20px 60px;float: left;transition: 1s;
+}
+.headtext{
+font-family: "Audiowide",Sans-serif;float: left;
+}
+.tank{
+    font-size: 40px;
+}
+body{
+    margin: 0;
+}
+.rightdiv{
+    float: right;
+}
+.right{
+    float: left;height: 50px;width: 80px;margin: 10px;font-family: "Audiowide",Sans-serif;box-sizing: border-box;padding: 23px 5px ;
+    
+}
+.right2{
+    float: left;height: 30px;width: 105px;background-color:#ABEBC6 ;font-family: "Audiowide",Sans-serif;box-sizing: border-box;padding-top:5px ;padding-left: -15px;
+margin-top: 30px;margin-right: 10px;
+}
+.right1{
+    float: left;height: 50px;width: 80px;margin: 10px;font-family: "Audiowide",Sans-serif;box-sizing: border-box;padding: 23px 15px ;
+    
+}
+.middle{
+    height: 500px;width: 100%;float: left;background-image: url(https://marketplace.canva.com/EAFCytpuJ08/1/0/1600w/canva-green-wateroclor-leaf-linktree-background-0Mp0WYk6_8E.jpg);box-sizing: border-box;
+}
+.texts{
+    height: 500px;width: 60%;margin: 50px 0px 0px 200px;
+}
+.bottun{
+    width: 100px;height: 40px;background-color: #FF775A;float: left;color: white;border: solid;border-color:#FF775A; font-family: Arial, Helvetica, sans-serif;
+}
+.bottun1{
+    width: 100px;height: 40px;background-color: transparent;border: solid;border-color: rgb(19, 152, 52);float: left; font-family: Arial, Helvetica, sans-serif;margin-left: 15px;
+}
+.imag{
+    margin-left: 600px;float: left;transition: 4s;
+}
+.foot {
+    margin-left: 50px;float: left;
+}
+a {
+    color: black; text-decoration-line: none;
+}
+.ta:hover{
+    width: 80px;height: 80px;margin: 10px 0px 20px 60px; 
+
+}
+.imag:hover{
+  margin-left: 0;
+}
+.bottun1:hover{
+background-color: #52BE80;
+}
